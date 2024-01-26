@@ -1,4 +1,4 @@
-const Button = ({label, iconURL, backgroundColor, textColor, borderColor}) => {
+const Button = ({label, iconURL, backgroundColor, textColor, borderColor, fullWidth }) => {
   return (
     <button className={`flex 
     justify-center
@@ -16,12 +16,14 @@ const Button = ({label, iconURL, backgroundColor, textColor, borderColor}) => {
     transition
     ease-in
     duration-150
-    
     ${
       backgroundColor 
       ? `${backgroundColor} ${textColor} ${borderColor}`
       : "bg-coral-red text-white border-coral-red" 
-    }`}>
+    } 
+    ${fullWidth && "w-full"}
+    
+    `}>
       {label}
     {iconURL &&  <img
         src={iconURL} 
