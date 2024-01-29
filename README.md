@@ -25,13 +25,13 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-nike-landing-page.git
+   git clone https://github.com/YannKamche/Nike-Website.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd your-nike-landing-page
+   cd Nike-Website
    ```
 
 3. Install dependencies:
@@ -67,18 +67,6 @@ This will generate a `dist` directory with optimized and minified assets.
 - `dist/`: The build output directory.
 - `node_modules/`: Node.js modules and dependencies.
 
-## Customize
-
-Feel free to modify and extend the project according to your Nike landing page requirements. Explore the Vite documentation for more configuration options and features: [Vite Documentation](https://vitejs.dev/)
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow the standard GitHub Fork and Pull Request workflow.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Replace the placeholder text in the screenshot captions with relevant information about the content displayed in the screenshots. Also, make sure to add the actual screenshots in a directory named `screenshots` within your project, and update the file names in the Markdown file accordingly.
