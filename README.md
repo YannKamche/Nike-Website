@@ -1,3 +1,8 @@
+# Nike Landing Page
+
+Welcome to the Nike Landing Page project, a React application built with Vite.
+
+## Screenshots
 ![Screenshot (784)](https://github.com/YannKamche/Nike-Website/assets/122357201/ef78a78e-5e3b-48f5-ae83-ee8cb1c5b315)
 ![Screenshot (785)](https://github.com/YannKamche/Nike-Website/assets/122357201/79374b12-ff55-4f18-b08a-bb6281fd0749)
 ![Screenshot (786)](https://github.com/YannKamche/Nike-Website/assets/122357201/8babf9de-66f7-454f-a473-419dfe57075f)
@@ -5,3 +10,75 @@
 ![Screenshot (788)](https://github.com/YannKamche/Nike-Website/assets/122357201/0c90e5e4-7b2a-470e-8157-d957ec659742)
 ![Screenshot (789)](https://github.com/YannKamche/Nike-Website/assets/122357201/86191dc5-43ac-4dfa-9d1e-859c093d7f65)
 ![Screenshot (790)](https://github.com/YannKamche/Nike-Website/assets/122357201/990ac253-07b2-4e7a-ab90-b7e5f941ea34)
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+- Node.js: [Download and Install Node.js](https://nodejs.org/)
+- npm: npm is included with Node.js. If you have Node.js installed, you have npm.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-nike-landing-page.git
+   ```
+
+2. Change into the project directory:
+
+   ```bash
+   cd your-nike-landing-page
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+### Running the App
+
+To start the development server and run the app locally, use the following command:
+
+```bash
+npm run dev
+```
+
+This will start the development server, and you can view your Nike landing page at [http://localhost:3000](http://localhost:3000).
+
+### Building for Production
+
+To build the app for production, use the following command:
+
+```bash
+npm run build
+```
+
+This will generate a `dist` directory with optimized and minified assets.
+
+## Folder Structure
+
+- `src/`: Contains the source code of the React application.
+- `public/`: Static assets that will be served as-is.
+- `dist/`: The build output directory.
+- `node_modules/`: Node.js modules and dependencies.
+
+## Customize
+
+Feel free to modify and extend the project according to your Nike landing page requirements. Explore the Vite documentation for more configuration options and features: [Vite Documentation](https://vitejs.dev/)
+
+## Contributing
+
+If you'd like to contribute to this project, please follow the standard GitHub Fork and Pull Request workflow.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Replace the placeholder text in the screenshot captions with relevant information about the content displayed in the screenshots. Also, make sure to add the actual screenshots in a directory named `screenshots` within your project, and update the file names in the Markdown file accordingly.
