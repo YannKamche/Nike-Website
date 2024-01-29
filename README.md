@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (784)](https://github.com/YannKamche/Nike-Website/assets/122357201/ef78a78e-5e3b-48f5-ae83-ee8cb1c5b315)
+![Screenshot (785)](https://github.com/YannKamche/Nike-Website/assets/122357201/79374b12-ff55-4f18-b08a-bb6281fd0749)
+![Screenshot (786)](https://github.com/YannKamche/Nike-Website/assets/122357201/8babf9de-66f7-454f-a473-419dfe57075f)
+![Screenshot (787)](https://github.com/YannKamche/Nike-Website/assets/122357201/c5df2f73-b087-43d5-8b11-c25667fe0994)
+![Screenshot (788)](https://github.com/YannKamche/Nike-Website/assets/122357201/0c90e5e4-7b2a-470e-8157-d957ec659742)
+![Screenshot (789)](https://github.com/YannKamche/Nike-Website/assets/122357201/86191dc5-43ac-4dfa-9d1e-859c093d7f65)
+![Screenshot (790)](https://github.com/YannKamche/Nike-Website/assets/122357201/990ac253-07b2-4e7a-ab90-b7e5f941ea34)
