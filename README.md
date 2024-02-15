@@ -1,6 +1,8 @@
 # Nike Landing Page
 
-Welcome to the Nike Landing Page project, a React application built with Vite.
+Welcome to your favourite Nike Shoe Shop
+
+## Demo: https://nike-shoe-cameroon.netlify.app/#home
 
 ## Screenshots
 ![Screenshot (784)](https://github.com/YannKamche/Nike-Website/assets/122357201/ef78a78e-5e3b-48f5-ae83-ee8cb1c5b315)
